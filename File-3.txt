@@ -1,2 +1,4 @@
 A third file
 Heres a 3rd file to test with
+
+I've added a new line to this file
