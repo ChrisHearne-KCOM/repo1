@@ -3,3 +3,4 @@ Testing with a 2nd file
 
 I'm not a clone !
 I am repo1-Practice
+I've appended a new line at line 6
